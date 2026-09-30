@@ -4,14 +4,14 @@ Subject: =?utf-8?Q?GitHub=20-=20Srinivasareddyseelam/VacAIgent-Streamlit-Integra
  =?utf-8?Q?d_AI_Crew_for_Trip_Planning:=20VacAIgent:=20Streamlit-Integrate?=
  =?utf-8?Q?d=20AI=20Crew=20for=20Trip=20Planning=20which=20also=20a=20trav?=
  =?utf-8?Q?el=20planning=20agent=20=C2=B7=20GitHub?=
-Date: Wed, 30 Sep 2026 15:06:29 GMT
+Date: Wed, 30 Sep 2026 15:07:14 GMT
 MIME-Version: 1.0
 Content-Type: multipart/related;
 	type="text/html";
-	boundary="----MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----"
+	boundary="----MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----"
 
 
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: text/html
 Content-ID: <frame-4C5520B4771E90AD769D80C3A12ABEF7@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
@@ -21,9 +21,9 @@ Content-Location: https://github.com/Srinivasareddyseelam/VacAIgent-Streamlit-In
 =3D"light" data-dark-theme=3D"dark" data-a11y-animated-images=3D"system" da=
 ta-a11y-link-underlines=3D"true" class=3D"js-focus-visible" data-turbo-load=
 ed=3D""><head><meta http-equiv=3D"Content-Type" content=3D"text/html; chars=
-et=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-0ca0=
-1607-9727-4d22-a340-c359dc80167c@mhtml.blink" /><link rel=3D"stylesheet" ty=
-pe=3D"text/css" href=3D"cid:css-b62b6fed-d0c8-46f8-a328-afcf68f5664a@mhtml.=
+et=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-edf3=
+6789-81bd-45b0-8ccd-04ac38f35e9c@mhtml.blink" /><link rel=3D"stylesheet" ty=
+pe=3D"text/css" href=3D"cid:css-305d85b8-0ac4-4cbb-b6cc-28fe76921221@mhtml.=
 blink" />
    =20
  =20
@@ -4073,7 +4073,7 @@ t-n1" aria-live=3D"assertive" aria-atomic=3D"true"></div>
 <div class=3D"sr-only mt-n1" id=3D"screenReaderAnnouncementDiv" role=3D"ale=
 rt" data-testid=3D"screenReaderAnnouncement" aria-live=3D"assertive">&nbsp;=
 </div></body></html>
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
 Content-Location: https://avatars.githubusercontent.com/u/167566163?s=64&v=4
@@ -4106,7 +4106,7 @@ DkgQOyBB7IAEsQMSxA5IEDsgQeyABLEDEj5jjNkbAH6dzw5IEDsgQeyABLEDEsQOSBA7IEHsgASx
 AxLEDkgQOyBB7IAEsQMSxA5IEDsgQeyABLEDEsQOSBA7IEHsgASxAxLEDkgQOyBB7IAEsQMSxA5I
 EDsgQeyABLEDEsQOSBA7IEHsgASxAxLEDkj4CQAA///SCRqMjZ2QGQAAAABJRU5ErkJggg==
 
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
 Content-Location: https://avatars.githubusercontent.com/u/167566163?v=4&size=40
@@ -4139,7 +4139,7 @@ DkgQOyBB7IAEsQMSxA5IEDsgQeyABLEDEj5jjNkbAH6dzw5IEDsgQeyABLEDEsQOSBA7IEHsgASx
 AxLEDkgQOyBB7IAEsQMSxA5IEDsgQeyABLEDEsQOSBA7IEHsgASxAxLEDkgQOyBB7IAEsQMSxA5I
 EDsgQeyABLEDEsQOSBA7IEHsgASxAxLEDkj4CQAA///SCRqMjZ2QGQAAAABJRU5ErkJggg==
 
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://github.githubassets.com/assets/t1.700fa05f6ad07185.module.css
@@ -4616,7 +4616,7 @@ d-color: rgba(0, 0, 0, 0); border-radius: 0px; flex-direction: row; width: =
 ze-16); text-align: left; flex-direction: row; align-items: center; margin-=
 top: 0px; }
 }
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://github.githubassets.com/assets/primer-react-brand-css.05b219cdb8e80c43.module.css
@@ -17331,7 +17331,7 @@ media___QH9l2, .Primer_Brand__Tiles-module__Tiles--layout-compact___HBisD .=
 Primer_Brand__Tiles-module__Tiles-item-label___L9BIA { transition: none; }
 }
 }
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://github.githubassets.com/assets/app-install-banner-partial.5fafbbfd4238885c.module.css
@@ -17346,7 +17346,7 @@ ner"] { flex-direction: row; }
 dule__Banner__BjYdP [class*=3D"BannerContent"] { flex: 1 1 0%; min-width: 0=
 px; }
 }
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://github.githubassets.com/assets/keyboard-shortcuts-dialog.2ecc6a817e0016a9.module.css
@@ -17358,7 +17358,7 @@ fgColor-default); overflow: hidden; }
 
 .KeyboardShortcutsDialog-module__LoadingStateContainer__ZKxJs { justify-con=
 tent: center; align-items: center; height: 100%; display: flex; }
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://github.githubassets.com/assets/s.d31c7060de2cdb31.module.css
@@ -20073,7 +20073,7 @@ omposer-min-height: 84px; }
 in: var(--base-size-8) 0; border-right: 0px; border-bottom: 0px; border-lef=
 t: 0px; border-image: none; border-top: var(--borderWidth-thin) solid var(-=
 -borderColor-muted); }
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://github.githubassets.com/assets/e.37214d6884033587.module.css
@@ -20754,7 +20754,7 @@ utral-muted); }
 
 .StackBadge-module__link__sPa3D:hover { color: var(--fgColor-accent); backg=
 round-color: rgba(0, 0, 0, 0); text-decoration: underline; }
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://github.githubassets.com/assets/uz.89b04a35bc726b14.module.css
@@ -21499,7 +21499,7 @@ h: 100%; height: 0.25em; position: absolute; top: 101%; left: 0px; }
 
 .CodeownersValidationBanner-module__Octicon__Hyamu { color: var(--fgColor-d=
 anger); }
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://github.githubassets.com/assets/70.8608a579a46d1aaf.module.css
@@ -22206,7 +22206,7 @@ l"] { color: var(--fgColor-attention); }
  color: var(--fgColor-done); }
 
 .MergeStatusButton-module__mergeStatusButton__CAjUA { min-width: 105px; }
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://github.githubassets.com/assets/2f.dd83d592300b96a9.module.css
@@ -22811,7 +22811,7 @@ ase-text-weight-semibold); }
 
 .StatusAvatar-module__StatusAvatar__A5iE9 { gap: var(--stack-gap-condensed)=
 ; align-items: center; display: flex; position: relative; }
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://github.githubassets.com/assets/u.d7bdfb98b5635c5f.module.css
@@ -23457,7 +23457,7 @@ __CydMX; }
 imation: 0.528s steps(15) 0s 1 normal none running UserInput-module__copilo=
 tEnd__8YKAE; }
 }
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://github.githubassets.com/assets/01.bf2da38f0e463847.module.css
@@ -24243,7 +24243,7 @@ ing: var(--base-size-8) var(--base-size-16); align-items: center; gap: var(=
 
 .NewAgentTaskForm-module__skeleton___zy4S { border-radius: var(--borderRadi=
 us-large); height: 106px !important; }
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://github.githubassets.com/assets/le.b45bfd8fdb36a353.module.css
@@ -25175,7 +25175,7 @@ size-16); justify-content: center; align-items: center; display: flex; }
 
 .RepositoryProjects-module__emptyState__AWMoI { padding: var(--base-size-48=
 ) var(--base-size-16); text-align: center; }
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://github.githubassets.com/assets/l.e46f4214683be313.module.css
@@ -26047,7 +26047,7 @@ shadow: var(--shadow-resting-medium); flex: 0 0 auto; }
 
 .BoardSurface-module__boardSurface__SP1um { block-size: calc(100dvh - var(-=
 -board-surface-top,0px)); min-block-size: 20rem; }
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://github.githubassets.com/assets/9ec.1ab73a072f65d875.module.css
@@ -26462,7 +26462,7 @@ var(--base-size-16); }
 
 .SidebarSectionsLoading-module__sidebarSectionsLoadingContainer__hDjzQ { ga=
 p: var(--stack-gap-condensed); flex-direction: column; display: flex; }
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://github.githubassets.com/assets/jq.e1e4c8a20f2974ea.module.css
@@ -26866,7 +26866,7 @@ om: var(--base-size-4); }
 
 .SharedListLoadingSkeleton-module__skeletonMetadata__ZUmaE { gap: var(--bas=
 e-size-8); margin-top: var(--base-size-8); display: flex; }
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://github.githubassets.com/assets/g.31d82d04a74d9d4e.module.css
@@ -27324,7 +27324,7 @@ e-start: 100%; background: 0px 0px; margin-inline-start: var(--base-size-4)=
 
 .CollapsibleNavList-module__search__LIuCv { padding: var(--base-size-4) var=
 (--base-size-8) var(--base-size-8) var(--base-size-8); list-style: none; }
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://github.githubassets.com/assets/4k.c7e4081401396dec.module.css
@@ -30126,7 +30126,7 @@ stack-gap-condensed); flex-direction: column; display: flex; }
 
 .LoadMore-module__buttonWrapper__w4Bfi { align-items: center; gap: var(--st=
 ack-gap-condensed); cursor: pointer; display: flex; }
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://github.githubassets.com/assets/9x.87181dadfc67fd7b.module.css
@@ -30615,7 +30615,7 @@ _bad__mgqXk:hover { background-color: var(--bgColor-danger-muted); }
 svg, .UserFeedbackColors-module__veryDissatisfied__AzgbS:hover svg, .UserFe=
 edbackColors-module__bad__mgqXk[aria-checked=3D"true"] svg, .UserFeedbackCo=
 lors-module__bad__mgqXk:hover svg { fill: var(--fgColor-danger); }
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://github.githubassets.com/assets/qt.ea7b59291bf3262d.module.css
@@ -31048,7 +31048,7 @@ start; display: flex; }
 text-body-size-small); padding: var(--base-size-16); }
 
 .SignedCommitBadge-module__clickableLabel__seodh { cursor: pointer; }
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://github.githubassets.com/assets/v.d1ebdee11bc01284.module.css
@@ -32077,7 +32077,7 @@ n-top: 0px; }
 .RepositoryAndIssuePicker-module__BackToRepositorySelectionButton__MFsg6 { =
 align-items: center; gap: var(--base-size-4); margin-left: calc(-1 * var(--=
 base-size-8)); display: flex; }
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://github.githubassets.com/assets/gq.fb76f2d98e7a249f.module.css
@@ -32627,7 +32627,7 @@ dth: 100%; font-weight: 400; display: flex; }
 
 .MetadataSidebar-module__CreateIssueAssigneesSection__gNzDQ { flex-grow: 1;=
  }
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://github.githubassets.com/assets/44.0de5d7abb805e808.module.css
@@ -33020,7 +33020,7 @@ etween; align-items: center; gap: var(--base-size-8); display: flex; }
 
 .CLIModePicker-module__confirmationActions__m2Tku { justify-content: flex-e=
 nd; gap: var(--base-size-8); display: flex; }
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://github.githubassets.com/assets/29.d55ed336d79f0913.module.css
@@ -33920,7 +33920,7 @@ ess); }
 
 .PermissionDiffPreview-module__deletions__KM1dJ { color: var(--fgColor-dang=
 er); }
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://github.githubassets.com/assets/m4.fec39dd01b1bfcab.module.css
@@ -34337,7 +34337,7 @@ vertical-align: top; position: relative; top: 1px; overflow: hidden; }
   .Title-module__inline__YFTZT { -webkit-line-clamp: 2; -webkit-box-orient:=
  vertical; }
 }
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://github.githubassets.com/assets/e8.c9ab9da3805d30eb.module.css
@@ -34723,7 +34723,7 @@ tant; }
 
 .SuggestionItem-module__ActionList_Description__PydK5 { font-weight: var(--=
 base-text-weight-normal); }
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://github.githubassets.com/assets/repos-issues-sidebar.9c1f63c117f436d8.module.css
@@ -34973,7 +34973,7 @@ ight: 0px; border-bottom: 0px; border-left: 0px; border-image: none; border=
 
 .CollapsibleFeedbackLink-module__feedbackLinkWrapper__ufcNo [data-component=
 =3D"ActionList"] { padding: 0px; }
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://github.githubassets.com/assets/repo.5c78ae984fcb0e62.module.css
@@ -34981,7 +34981,7 @@ Content-Location: https://github.githubassets.com/assets/repo.5c78ae984fcb0e62.m
 @charset "utf-8";
 
 .RailsPartial-module__d-contents__G5m4w { display: contents; }
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://github.githubassets.com/assets/repos-branches.d9d7c7716550005e.module.css
@@ -35336,7 +35336,7 @@ mage-outset: ; border-image-repeat: ; border-top-width: 0px; border-top-sty=
 le: none; border-color: var(--borderColor-default); border-bottom-left-radi=
 us: var(--borderRadius-medium); border-bottom-right-radius: var(--borderRad=
 ius-medium); display: flex; }
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://github.githubassets.com/assets/fg.2616179aabbabe22.module.css
@@ -35374,7 +35374,7 @@ gap-condensed); flex-flow: wrap; display: flex; }
 sed); flex-direction: column; flex: 1 1 250px; display: flex; }
 
 .ShortcutsDialogContent-module__FullWidthButton__w3GKK { width: 100%; }
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://github.githubassets.com/assets/u2l.c9e41ee82162f9d2.module.css
@@ -35386,7 +35386,7 @@ fgColor-default); overflow: hidden; }
 
 .KeyboardShortcutsDialog-module__LoadingStateContainer__ZKxJs { justify-con=
 tent: center; align-items: center; height: 100%; display: flex; }
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://github.githubassets.com/assets/kq9.8ad2074125dec7f9.module.css
@@ -35401,7 +35401,7 @@ ner"] { flex-direction: row; }
 dule__Banner__BjYdP [class*=3D"BannerContent"] { flex: 1 1 0%; min-width: 0=
 px; }
 }
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://github.githubassets.com/assets/notifications-subscriptions-menu.b1b2474e7363d1d1.module.css
@@ -35499,7 +35499,7 @@ nent=3D"leadingVisual"] { color: var(--fgColor-muted,var(--color-fg-muted))=
   .NotificationsSubscriptionsMenu-module__subscriptionDialog__cEs3l { max-h=
 eight: 100dvh; overflow-y: auto; }
 }
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://github.githubassets.com/assets/code-view.7fd327d81f5a8684.module.css
@@ -38278,7 +38278,7 @@ ult)); }
 
 .FolderViewHeader-module__innerWrapperNotStickied__sdhul { border-bottom-wi=
 dth: medium; border-bottom-style: none; border-bottom-color: currentcolor; }
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://github.githubassets.com/assets/7o.472d89161e62ff5e.module.css
@@ -38718,7 +38718,7 @@ ion: relative; }
 
 .InlineAutocomplete-module__container__NQUmo > *, .InlineAutocomplete-modul=
 e__fullWidth__Cph_I { width: 100%; }
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://github.githubassets.com/assets/xc.877a51df9233c9c4.module.css
@@ -39231,7 +39231,7 @@ or-muted); font: var(--text-body-shorthand-large); margin: 0px; }
 
 .ErrorPageTemplateComponent-module__Actions__g6Qbg { align-items: center; g=
 ap: var(--stack-gap-condensed); flex-wrap: wrap; display: flex; }
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://github.githubassets.com/assets/1h.867efb0dc5602d8c.module.css
@@ -39622,7 +39622,7 @@ ner"]:first-child { display: none; }
 
 .RecentlyTouchedBranches-module__Octicon__PSSjA { margin: 0 var(--base-size=
 -8); }
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://github.githubassets.com/assets/ql0.bdd6be015c087bbc.module.css
@@ -40212,7 +40212,7 @@ ght: var(--base-size-16); position: absolute; }
 @media (width >=3D 768px) and (width <=3D 1011px) {
   .MergeBoxNudgeSection-module__HideOnTablet__L1YmH { display: none; }
 }
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://github.githubassets.com/assets/primer-react-css.e6a43c45f45572ae.module.css
@@ -45862,7 +45862,7 @@ t); color: var(--fgColor-onEmphasis,#fff); }
   .prc-StateLabel-Icon-YICrR { margin-right: var(--base-size-4,.25rem); }
   .prc-StateLabel-Icon-YICrR:where([data-size-small]) { width: 1em; }
 }
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://github.githubassets.com/assets/react-core.e4dacae38a8deb7d.module.css
@@ -45878,7 +45878,7 @@ flex; }
 
 .ErrorPage-module__Message__zz8Qu { font-size: var(--text-title-size-medium=
 ); padding-top: var(--base-size-8); }
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://github.githubassets.com/assets/app-runtime.70b2cadcfd63fdd3.module.css
@@ -46006,7 +46006,7 @@ flex: 1 1 0%; }
 
 .ClustersDisabler-module__ClustersDisablerText__kHRRv { margin-right: var(-=
 -base-size-8); flex: 1 1 0%; }
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://github.githubassets.com/assets/code-2d56bdb0166c0238.css
@@ -46964,7 +46964,7 @@ ticon-chevron-right { color: inherit; }
 
 .tree-browser-result mark { font-weight: var(--base-text-weight-semibold); =
 color: inherit; background: 0px 0px; }
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://github.githubassets.com/assets/repository-11ee8a031c040c1a.css
@@ -47820,7 +47820,7 @@ var(--color-attention-fg)); }
 
 .table-of-contents .octicon-diff-added { color: var(--fgColor-success,var(-=
 -color-success-fg)); }
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://github.githubassets.com/assets/github-7338c07b3a07b8be.css
@@ -51428,7 +51428,7 @@ ace: nowrap; overflow: hidden; }
 
 .annotation--expanded div:first-child { word-break: break-word; white-space=
 : pre-wrap; }
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://github.githubassets.com/assets/global-54ba76e934a49d7c.css
@@ -59295,7 +59295,7 @@ ar-size); height: var(--avatar-size); z-index: 0; box-shadow: none; positio=
 n: relative; border-radius: var(--radius-size) !important; }
 
 .text-rendering-optimize-speed { text-rendering: optimizespeed; }
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://github.githubassets.com/assets/primer-4136ede8b2650a2d.css
@@ -69716,7 +69716,7 @@ ng-bottom: var(--base-size-112,112px) !important; }
   .tmp-py-xl-12 { padding-top: var(--base-size-128,128px) !important; paddi=
 ng-bottom: var(--base-size-128,128px) !important; }
 }
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://github.githubassets.com/assets/primer-primitives-ed9ca172356fd545.css
@@ -69880,7 +69880,7 @@ edium: var(--text-title-weight-medium) var(--text-title-size-medium) / var(=
 --text-title-lineHeight-medium) var(--fontStack-sansSerifDisplay); --text-t=
 itle-shorthand-small: var(--text-title-weight-small) var(--text-title-size-=
 small) / var(--text-title-lineHeight-small) var(--fontStack-sansSerif); }
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://github.githubassets.com/assets/dark_high_contrast-24484a076f02295f.css
@@ -71113,7 +71113,7 @@ raft-emphasis); --border-draft-muted: var(--borderWidth-default) solid var(=
 n-default-borderColor-hover); --button-outline-borderColor-active: var(--bu=
 tton-outline-borderColor-hover); }
 }
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://github.githubassets.com/assets/dark-79ad2ace604703b3.css
@@ -72336,7 +72336,7 @@ or-active: var(--button-danger-borderColor-hover); --button-outline-borderC=
 olor-hover: var(--button-default-borderColor-hover); --button-outline-borde=
 rColor-active: var(--button-outline-borderColor-hover); }
 }
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://github.githubassets.com/assets/light_high_contrast-48fdd0811afbab3c.css
@@ -73570,7 +73570,7 @@ anger-fgColor-disabled: var(--buttonKeybindingHint-default-fgColor-disabled=
 order-draft-muted: var(--borderWidth-default) solid var(--borderColor-draft=
 -muted); }
 }
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://github.githubassets.com/assets/light-99f877e9ddfc0e51.css
@@ -74795,20 +74795,20 @@ rderColor-active: var(--button-danger-borderColor-hover); --button-outline-=
 borderColor-hover: var(--button-primary-borderColor-hover); --button-outlin=
 e-borderColor-active: var(--button-outline-borderColor-hover); }
 }
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-b62b6fed-d0c8-46f8-a328-afcf68f5664a@mhtml.blink
+Content-Location: cid:css-305d85b8-0ac4-4cbb-b6cc-28fe76921221@mhtml.blink
 
 @charset "utf-8";
 
 :root { --tab-size-preference: 4; }
 
 pre, code { tab-size: var(--tab-size-preference); }
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq----
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-0ca01607-9727-4d22-a340-c359dc80167c@mhtml.blink
+Content-Location: cid:css-edf36789-81bd-45b0-8ccd-04ac38f35e9c@mhtml.blink
 
 @charset "utf-8";
 
@@ -74816,4 +74816,4 @@ Content-Location: cid:css-0ca01607-9727-4d22-a340-c359dc80167c@mhtml.blink
  height: 3px; background: rgb(0, 118, 255); z-index: 2147483647; transition=
 : width 300ms ease-out, opacity 150ms ease-in 150ms; transform: translate3d=
 (0px, 0px, 0px); }
-------MultipartBoundary--RDWid1kpcez83UUHYMx9ZHxRFVijUx0Q8UMXtR9Gfq------
+------MultipartBoundary--NaZ19f6wNQZ9pdKOg6PJsYkwozS8kaRND0OPB0JwLD------
